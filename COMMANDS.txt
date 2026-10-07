@@ -1,0 +1,11 @@
+COMMAND BLOCK - PLAY
+function leila:play
+
+COMMAND BLOCK - STOP
+function leila:stop
+
+OPTIONAL TITLE + PLAY
+function leila:funeral
+
+Command block settings:
+Impulse / Unconditional / Needs Redstone
