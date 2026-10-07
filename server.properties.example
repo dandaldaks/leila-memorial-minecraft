@@ -1,0 +1,6 @@
+# Replace RESOURCE_PACK_URL with the direct URL to the hosted resource-pack ZIP.
+resource-pack=RESOURCE_PACK_URL
+resource-pack-sha1=RESOURCE_PACK_SHA1
+resource-pack-id=adffae8d-ba05-5ffd-9525-cbd40583f44e
+require-resource-pack=true
+resource-pack-prompt={"text":"Leila Memorial music pack","color":"light_purple"}
