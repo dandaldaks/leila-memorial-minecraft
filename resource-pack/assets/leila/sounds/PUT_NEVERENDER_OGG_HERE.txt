@@ -1,1 +1,0 @@
-Place your legally distributable `neverender.ogg` in this folder before building the resource-pack ZIP.
